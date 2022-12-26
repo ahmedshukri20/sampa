@@ -1,0 +1,16 @@
+<template>
+    <div class="ready-to-talk">
+        <div class="container">
+            <h3>Ready to talk?</h3>
+            <p>Our team is here to answer your question about Pasona</p>
+            <a href="#" class="btn btn-primary">Contact Us</a>
+            <span><a href="#">Or, get started now with a free trial</a></span>
+        </div>
+    </div>
+</template>
+
+<script>
+export default {
+    name: 'ReadyToTalk'
+}
+</script>
