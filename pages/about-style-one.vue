@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle pageTitle="About Us" />
+        <PageTitle/>
         <About />
         <Team />
         <ReadyToTalk />

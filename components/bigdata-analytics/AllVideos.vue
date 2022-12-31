@@ -13,7 +13,7 @@
                         <div class="">
                             <div class="single-blog-post-box bg-f4faff">
                                 <div class="entry-thumbnail">
-                                    <a  class="" @click="changeVideoUrl(video.vid_src)"><img src="require(`~/assets/img/doctors/${video.vid_image}`)" alt="image" ><feather type="play-circle"></feather></a>
+                                    <a  class="" @click="changeVideoUrl(video.vid_src)"><img :src="require(`~/assets/img/doctors/${video.vid_image}`)" alt="image" ><feather type="play-circle"></feather></a>
                                 </div>
 
                                 <div class="entry-post-content">

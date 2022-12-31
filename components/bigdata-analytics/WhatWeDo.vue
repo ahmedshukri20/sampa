@@ -4,7 +4,7 @@
 				<div class="section-title">
 					<h2>What We Do</h2>
 					<div class="bar"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+					<p>Our practitioners perform a wide variety of activities, but some common activities include</p>
 				</div>
 
 				<div class="row">
@@ -13,10 +13,10 @@
 							<div class="icon">
                                 <i class="flaticon-monitor"></i>
                             </div>
-                            <h3><NuxtLink to="/service-details">Research</NuxtLink></h3>
+                            <h3><NuxtLink to="/service-details">Events</NuxtLink></h3>
                             <p>Lorem ipsum dolor sit consectetur, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                            <NuxtLink to="/service-details" class="link">Market Research</NuxtLink>
-                            <NuxtLink to="/service-details" class="link">Investment Research</NuxtLink>
+                            <NuxtLink to="/service-details" class="link">Organize events</NuxtLink>
+                            <NuxtLink to="/service-details" class="link">Invite health professionals</NuxtLink>
                             <NuxtLink to="/service-details" class="read-more-btn">
                                     <feather type="arrow-right"></feather>Read More</NuxtLink>
 						</div>
@@ -27,10 +27,10 @@
 							<div class="icon">
                                 <i class="flaticon-idea"></i>
                             </div>
-                            <h3><NuxtLink to="/service-details">Analytics</NuxtLink></h3>
+                            <h3><NuxtLink to="/service-details">Education Seminars</NuxtLink></h3>
                             <p>Lorem ipsum dolor sit consectetur, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                            <NuxtLink to="/service-details" class="link">Data Analytics</NuxtLink>
-                            <NuxtLink to="/service-details" class="link">Business Intelligence</NuxtLink>
+                            <NuxtLink to="/service-details" class="link">Hold speaking seminars</NuxtLink>
+                            <NuxtLink to="/service-details" class="link">Prepare speaking topics</NuxtLink>
                             <NuxtLink to="/service-details" class="read-more-btn"><feather type="arrow-right"></feather>Read More</NuxtLink>
 						</div>
                     </div>
@@ -40,10 +40,10 @@
 							<div class="icon">
                                 <i class="flaticon-software"></i>
                             </div>
-                            <h3><NuxtLink to="/service-details">Technology</NuxtLink></h3>
-                            <p>Lorem ipsum dolor sit consectetur, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                            <NuxtLink to="/service-details" class="link">Intelligence Automation</NuxtLink>
-                            <NuxtLink to="/service-details" class="link">Quality Engineering</NuxtLink>
+                            <h3><NuxtLink to="/service-details">Coordinating Care</NuxtLink></h3>
+                            <p>ften work with other healthcare professionals to ensure that patients receive the most appropriate.</p>
+                            <NuxtLink to="/service-details" class="link">Work with other healthcare Institutes</NuxtLink>
+                            <NuxtLink to="/service-details" class="link">Consult with Patients</NuxtLink>
                             <NuxtLink to="/service-details" class="read-more-btn"><feather type="arrow-right"></feather>Read More</NuxtLink>
 						</div>
 					</div>
