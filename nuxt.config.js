@@ -1,6 +1,6 @@
 export default {
   target: 'static',
-  
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title:
@@ -90,7 +90,7 @@ export default {
     },
   },
   generate: {
-    dir: "build_pages", // gh_pages/ instead of dist/
+    dir: "dist", // gh_pages/ instead of dist/
     subFolders: false, // HTML files are generated according to the route path
   },
 };
