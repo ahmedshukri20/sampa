@@ -4,7 +4,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title:
-      "Pasona - IT Startup & Technology Services Template with Nuxtjs & Strapi CMS",
+      "SOMPA - Somali Medical Practitioners Association",
     htmlAttrs: {
       lang: "en",
     },

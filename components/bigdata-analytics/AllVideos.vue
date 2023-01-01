@@ -13,18 +13,18 @@
                         <div class="">
                             <div class="single-blog-post-box bg-f4faff">
                                 <div class="entry-thumbnail">
-                                    <a  class="" @click="changeVideoUrl(video.vid_src)"><img :src="require(`~/assets/img/doctors/${video.vid_image}`)" alt="image" ><feather type="play-circle"></feather></a>
+                                    <a  class="" @click="changeVideoUrl(video.vid_src)"><img :src="require(`~/assets/img/doctors/${video.vid_image}`)" alt="image" ><feather type="play-circle" class="feather feather--play-circle"></feather></a>
                                 </div>
 
                                 <div class="entry-post-content">
                                     <div class="entry-meta">
                                         <ul>
-                                            <li><a @click="changeVideoUrl(video.vid_src)">Admin</a></li>
+                                            <li><a @click="changeVideoUrl(video.vid_src)">John Doe</a></li>
                                             <li>August 15, 2019</li>
                                         </ul>
                                     </div>
 
-                                    <h3><a @click="changeVideoUrl(video.vid_src)">Making Peace With The Feast Or Famine Of Freelancing</a></h3>
+                                    <h3><a @click="changeVideoUrl(video.vid_src)">Making Peace With The Ups and Downs of Diabetes</a></h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod...</p>
                                     
                                     <div>

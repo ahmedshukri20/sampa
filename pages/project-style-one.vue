@@ -1,6 +1,6 @@
 <template>
     <div>
-        <PageTitle pageTitle="Project" />
+        <PageTitle pageTitle="" />
         <ProjectStyleOne />
     </div>
 </template>

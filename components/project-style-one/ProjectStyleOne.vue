@@ -119,7 +119,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-12 col-md-12">
+                <!-- <div class="col-lg-12 col-md-12">
                     <div class="pagination-area">
                         <nav aria-label="Page navigation">
                             <ul class="pagination justify-content-center">
@@ -131,7 +131,7 @@
                             </ul>
                         </nav>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
 
