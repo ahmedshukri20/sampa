@@ -145,6 +145,9 @@ p {
     position: relative;
 }
 
+.entry-thumbnail img:hover{
+    transform: scale(1.01);
+}
 .feather--play-circle{
     position: absolute;
     bottom: 39%;

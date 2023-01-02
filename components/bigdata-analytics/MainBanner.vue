@@ -4,7 +4,7 @@
                 <div class="bigdata-analytics-content">
                     <h1>Somali Medical Practitioners</h1>
                     <p>Healthcare professionals who are trained to provide medical care to people in Somalia. This can include doctors, nurses, and other healthcare workers who are trained to diagnose and treat illnesses and injuries.</p>
-                    <a href="/contact" class="btn btn-primary">Get Started</a>
+                    <!-- <a href="/contact" class="btn btn-primary">Get Started</a> -->
                 </div>
             </div>
 
