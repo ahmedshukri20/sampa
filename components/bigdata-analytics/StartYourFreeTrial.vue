@@ -10,12 +10,12 @@
 
                 <div class="col-lg-6 col-md-12 p-0">
                     <div class="newsletter-content">
-                        <h2>Start your free trial</h2>
+                        <h2>Subscribe to our newsletter</h2>
                         <form class="newsletter-form">
                             <input type="email" class="input-newsletter" placeholder="Enter your business email here">
-                            <button type="submit">Sign Up Free</button>
+                            <button type="submit">Subscribe</button>
                         </form>
-                        <p>Test out the Big Data Analytics features for 14 days, no credit card required.</p>
+                        <!-- <p>Test out the Big Data Analytics features for 14 days, no credit card required.</p> -->
                     </div>
                 </div>
             </div>
