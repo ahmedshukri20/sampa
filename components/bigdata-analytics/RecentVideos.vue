@@ -92,7 +92,7 @@ export default {
     methods: {
         changeVideoUrl(new_url) {
             this.show = true
-            this.videoUrl = require('~/assets/videos/'+new_url)
+            this.videoUrl = '/videos/'+ new_url
         }
     }
 }

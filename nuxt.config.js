@@ -14,7 +14,7 @@ export default {
       { hid: "description", name: "description", content: "" },
     ],
     link: [
-      { rel: "icon", type: "image/x-icon", href: "/favicon.png" },
+      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
       {
         rel: "stylesheet",
         href: "https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i",
@@ -92,5 +92,5 @@ export default {
   generate: {
     dir: "dist", // gh_pages/ instead of dist/
     subFolders: false, // HTML files are generated according to the route path
-  },
+  }, 
 };
