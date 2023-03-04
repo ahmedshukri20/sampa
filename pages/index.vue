@@ -23,7 +23,7 @@ import FunFacts from '../components/bigdata-analytics/FunFacts'
 import Feedback from '../components/bigdata-analytics/Feedback'
 import Industries from '../components/bigdata-analytics/Industries'
 import OurRecentStory from '../components/bigdata-analytics/OurRecentStory'
-import RecentVideos from '../components/bigdata-analytics/RecentVideos.vue'
+import RecentVideos from '../components/bigdata-analytics/RecentVideos'
 import StartYourFreeTrial from '../components/bigdata-analytics/StartYourFreeTrial'
 
 export default {

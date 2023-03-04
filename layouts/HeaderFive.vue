@@ -18,10 +18,30 @@
                                 </a>
                             </li>
 
-                            <li class="nav-item"><a href="/about-style-one" class="nav-link">About us</a></li>
-                            <li class="nav-item"><a href="/service-style-one" class="nav-link">Services</a></li>
-                            <li class="nav-item"><a href="/project-style-one" class="nav-link">Projects</a></li>
+                            <!-- <li class="nav-item"><a href="/about-style-one" class="nav-link">About us</a></li> -->
+                            <li class="nav-item">
+                                <a href="/about-style-one" class="nav-link">About us<feather type="chevron-down"></feather></a>
+                                <ul class="dropdown_menu">
+                                    <li class="nav-item"><a href="/about-style-one" class="nav-link">Who we are </a></li>
+                                    <li class="nav-item"><a href="#" class="nav-link">What we do </a></li>
+                                </ul>
+                            </li>
+                            <!-- <li class="nav-item"><a href="/service-style-one" class="nav-link">Services</a></li>
+                            <li class="nav-item"><a href="/project-style-one" class="nav-link">Projects</a></li> -->
+                            <li class="nav-item">
+                                <a href="/about-style-one" class="nav-link">Membership<feather type="chevron-down"></feather></a>
+                                <ul class="dropdown_menu">
+                                    <li class="nav-item"><a href="#" class="nav-link">Registration</a></li>
+                                    <li class="nav-item"><a href="#" class="nav-link">Benefits </a></li>
+                                </ul>
+                            </li>
                             <li class="nav-item"><a href="/faq" class="nav-link">FAQ</a></li>
+                            <li class="nav-item">
+                                <a href="#" class="nav-link">Upcoming Events <feather type="chevron-down"></feather></a>
+                                <ul class="dropdown_menu">
+                                    <li class="nav-item"><a href="#" class="nav-link">CME Programmes </a></li>
+                                </ul>
+                            </li>
                             
                             <!-- <li class="nav-item">
                                 <a href="#" class="nav-link">Services <feather type="chevron-down"></feather></a>
@@ -147,7 +167,7 @@
                             <feather type="shopping-cart"></feather>
                             <span>{{cart.length}}</span>
                         </NuxtLink> -->
-                        <a href="/contact" class="btn btn-primary">Contact us</a>
+                        <a href="/contact" class="btn btn-secondary">Contact us</a>
                     </div>
                 </nav>
             </div> 

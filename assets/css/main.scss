@@ -582,7 +582,7 @@ Preloader CSS
 Navbar CSS
 =================================================*/
 .header-five{
-    background-color: #00000091 !important;
+    background-color: #fffdfd !important;
     padding-bottom: 15px;
 }
 #header {
@@ -592,7 +592,8 @@ Navbar CSS
         z-index: 9999;
         top: 0;
         left: 0;
-        background-color: transparent;
+        background-color: #fffdfd;
+        box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 8%) !important;
         transition: .3s;
         padding-top: 15px;
        
@@ -811,7 +812,7 @@ Navbar CSS
             .navbar-nav {
                 .nav-item {
                     a {
-                        color: $white-color;
+                        // color: $white-color;
 
                         &:hover, &:focus, &.active {
                             color: $light-green-color;
@@ -838,7 +839,7 @@ Navbar CSS
         }
     }
     &#header.headroom.is-sticky {
-        background-color: $black-color !important;
+        background-color: #fffdfd  !important;
     }
 }
 // Mobile Navbar
