@@ -1,20 +1,22 @@
 <template>
     <div>
         <MainBanner />
-        <RecentVideos />
-        <WhatWeDo />
+        <features/>
         <Discover />
-        <Services />
-        <Team />
+        <RecentVideos />
         <FunFacts />
-        <Feedback />
         
-        <StartYourFreeTrial />
+        <!-- <WhatWeDo /> -->
+        <!-- <Services /> -->
+        <!-- <Team /> -->
+        <!-- <Feedback /> -->
+        <!-- <StartYourFreeTrial /> -->
     </div>
 </template>
 
 <script>
 import MainBanner from '../components/bigdata-analytics/MainBanner'
+import Features from '../components/Index/Features'
 import WhatWeDo from '../components/bigdata-analytics/WhatWeDo'
 import Discover from '../components/bigdata-analytics/Discover'
 import Services from '../components/bigdata-analytics/Services'
@@ -30,6 +32,7 @@ export default {
     components: {
         MainBanner,
         WhatWeDo,
+        Features,
         Discover,
         Services,
         Team,

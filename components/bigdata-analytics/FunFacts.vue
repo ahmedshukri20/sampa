@@ -7,13 +7,8 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             </div>
 
-            <div class="row">
-                <div class="col-lg-3 col-md-3 col-6 col-sm-6">
-                    <div class="single-funfact">
-                        <h3>180<span>k</span></h3>
-                        <p>Downloaded</p>
-                    </div>
-                </div>
+            <div class="row justify-content-md-center">
+              
 
                 <div class="col-lg-3 col-md-3 col-6 col-sm-6">
                     <div class="single-funfact">
