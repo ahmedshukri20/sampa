@@ -1,20 +1,20 @@
 <template>
     <div>
         <br><br>
-        <br>
-        <PageTitle pageTitle="FAQ" />
-        <FaqArea />
+        <br><br>
+        <PageTitle pageTitle="About SOMPA" />
+        <WhoWeAre />
     </div>
 </template>
 
 <script>
 import PageTitle from '../components/Common/PageTitle'
-import FaqArea from '../components/Faq/FaqArea'
+import WhoWeAre from '../components/bigdata-analytics/WhoWeAre'
 
 export default {
     components: {
         PageTitle,
-        FaqArea,
+        WhoWeAre,
     }
 }
 </script>

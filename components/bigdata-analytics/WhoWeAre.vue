@@ -4,11 +4,12 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 services-details">
                     <div class="services-details-desc">
-                        <h3>What we do</h3>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer.</p>
-
-                        <p>Took a galley of type and scrambled it to make a type specimen book. survived not only five centuries, but also the leap into electronic remaining. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer when an unknown.</p>
-                    </div>
+                        <h3>Who we are</h3>
+                        <p>SOMPA was founded in 2018 by a group of healthcare professionals who recognized the need for a coordinated effort to improve health outcomes across the Kenya. Since then, we have grown to become a leading voice in health education, advocacy, and community outreach, with a membership of over 50 healthcare professionals from across the Kenya.</p>
+                        
+                        <p>The Somali Medical Practitioners Association (SOMPA) is an organization dedicated to improving the health and well-being of individuals and communities across Kenya. 
+                            </p>
+                            </div>
                 </div>
 
                 <div class="col-lg-6 services-details-image">
@@ -25,34 +26,35 @@
 
                 <div class="col-lg-6 services-details">
                     <div class="services-details-desc">
-                        <p>Took a galley of type and scrambled it to make a type specimen book. survived not only five centuries, but also the leap into electronic remaining. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer when an unknown.</p>
-
+                        <p>Our association is comprised of healthcare professionals from a variety of disciplines, including doctors, nurses, pharmacists, and researchers, all working together to promote health education, advocacy, and community outreach.</p>
+                    
                         <div class="services-details-accordion">
                             <accordion>
                                 <accordion-item>
                                     <template v-slot:accordion-trigger>
-                                        <a class="accordion-button">How many time zones are there in all?</a>
+                                        <a class="accordion-button">Our Mission</a>
                                     </template>
                                     <template v-slot:accordion-content>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <p>Our mission is to improve the health and well-being of Kenyan communities through education, advocacy, and community outreach. We believe that everyone should have access to quality healthcare, regardless of their socioeconomic status, and we work tirelessly to promote this ideal across Kenya.</p>
                                     </template>
                                 </accordion-item>
                                 <accordion-item>
                                     <template v-slot:accordion-trigger>
-                                        <a class="accordion-button">Is Smart Lock required for instant apps?</a>
+                                        <a class="accordion-button">Our Vision</a>
                                     </template>
                                     <template v-slot:accordion-content>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <p>Our vision is to create a healthier and more equitable Africa, where all individuals have access to quality healthcare and the opportunity to live full and productive lives.</p>
                                     </template>
                                 </accordion-item>
                                 <accordion-item>
                                     <template v-slot:accordion-trigger>
-                                        <a class="accordion-button">Can I have multiple activities in a single feature?</a>
+                                        <a class="accordion-button">Our Goals</a>
                                     </template>
                                     <template v-slot:accordion-content>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <p>To promote health education and awareness, To advocate for policies and initiatives that improve public health, To provide professional development opportunities to our members, and to support the growth and development of healthcare professionals across Kenya.</p>
                                     </template>
                                 </accordion-item>
+                              
                             </accordion>
                         </div>
                     </div>
@@ -67,7 +69,7 @@ import Accordion from "../Common/accordion";
 import AccordionItem from "../Common/accordion-item";
 
 export default {
-	name: 'WhatWeDo',
+	name: 'WhoWeAre',
 	components: {
         Accordion,
         AccordionItem

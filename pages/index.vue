@@ -17,6 +17,7 @@
 <script>
 import MainBanner from '../components/bigdata-analytics/MainBanner'
 import Features from '../components/Index/Features'
+import WhoWeAre from '../components/bigdata-analytics/WhoWeAre'
 import WhatWeDo from '../components/bigdata-analytics/WhatWeDo'
 import Discover from '../components/bigdata-analytics/Discover'
 import Services from '../components/bigdata-analytics/Services'
@@ -31,6 +32,7 @@ import StartYourFreeTrial from '../components/bigdata-analytics/StartYourFreeTri
 export default {
     components: {
         MainBanner,
+        WhoWeAre,
         WhatWeDo,
         Features,
         Discover,

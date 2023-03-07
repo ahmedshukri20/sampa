@@ -22,24 +22,24 @@
                             <li class="nav-item">
                                 <a href="#" class="nav-link">About us<feather type="chevron-down"></feather></a>
                                 <ul class="dropdown_menu">
-                                    <li class="nav-item"><a href="/about-style-one" class="nav-link">Who we are </a></li>
-                                    <li class="nav-item"><a href="#" class="nav-link">What we do </a></li>
+                                    <li class="nav-item"><a href="/WhoWeAre" class="nav-link">Who we are </a></li>
+                                    <li class="nav-item"><a href="/WhatWeDo" class="nav-link">What we do </a></li>
                                 </ul>
                             </li>
                             <!-- <li class="nav-item"><a href="/service-style-one" class="nav-link">Services</a></li>
                             <li class="nav-item"><a href="/project-style-one" class="nav-link">Projects</a></li> -->
                             <li class="nav-item">
-                                <a href="#" class="nav-link">Membership<feather type="chevron-down"></feather></a>
-                                <ul class="dropdown_menu">
+                                <a href="/Membership" class="nav-link">Membership</a>
+                                <!-- <ul class="dropdown_menu">
                                     <li class="nav-item"><a href="#" class="nav-link">Registration</a></li>
                                     <li class="nav-item"><a href="#" class="nav-link">Benefits </a></li>
-                                </ul>
+                                </ul> -->
                             </li>
                             
                             <li class="nav-item">
                                 <a href="#" class="nav-link">Upcoming Events <feather type="chevron-down"></feather></a>
                                 <ul class="dropdown_menu">
-                                    <li class="nav-item"><a href="#" class="nav-link">CME Programmes </a></li>
+                                    <li class="nav-item"><a href="../pdf/event_1.pdf" target="blank" class="nav-link">CME Programmes </a></li>
                                 </ul>
                             </li>
 

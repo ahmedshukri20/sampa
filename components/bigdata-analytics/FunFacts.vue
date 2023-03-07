@@ -2,32 +2,31 @@
     <div class="funfacts-area bg-image ptb-80">
         <div class="container">
             <div class="section-title">
-                <h2>We always try to understand users expectation</h2>
+                <h2>We always try to understand member expectation</h2>
                 <div class="bar"></div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
             </div>
 
             <div class="row justify-content-md-center">
-              
 
                 <div class="col-lg-3 col-md-3 col-6 col-sm-6">
                     <div class="single-funfact">
-                        <h3>20<span>k</span></h3>
-                        <p>Feedback</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-3 col-6 col-sm-6">
-                    <div class="single-funfact">
-                        <h3>500<span>+</span></h3>
-                        <p>Workers</p>
+                        <h3>200<span></span></h3>
+                        <p>Members</p>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-3 col-6 col-sm-6">
                     <div class="single-funfact">
                         <h3>70<span>+</span></h3>
-                        <p>Contributors</p>
+                        <p>Doctors</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-3 col-6 col-sm-6">
+                    <div class="single-funfact">
+                        <h3>10<span>+</span></h3>
+                        <p>Events</p>
                     </div>
                 </div>
             </div>

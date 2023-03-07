@@ -4,7 +4,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 services-details">
                     <div class="services-details-desc">
-                        <h3>What we do</h3>
+                        <h3>Incredible Infrastructure</h3>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer.</p>
 
                         <p>Took a galley of type and scrambled it to make a type specimen book. survived not only five centuries, but also the leap into electronic remaining. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer when an unknown.</p>
@@ -67,7 +67,7 @@ import Accordion from "../Common/accordion";
 import AccordionItem from "../Common/accordion-item";
 
 export default {
-	name: 'WhatWeDo',
+	name: 'Membership',
 	components: {
         Accordion,
         AccordionItem

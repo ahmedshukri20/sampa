@@ -49,13 +49,13 @@ Big Data Analytics Banner CSS
         repeat: no-repeat;
     };
     padding: {
-        top: 280px;
+        top: 200px;
         bottom: 25px;
     };
 }
 .bigdata-analytics-content {
     max-width: 555px;
-
+    min-height: 450px;
     h1 {
         color: $white-color;
         margin-bottom: 25px;
