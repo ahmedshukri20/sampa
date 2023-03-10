@@ -13,7 +13,7 @@
                 </div>
 
                 <div class="col-lg-6 col-md-12">
-                    <form id="contactForm">
+                    <form id="contactForm" action="https://submit-form.com/0ZML7QND">
                         <div class="row">
                             <div class="col-lg-12 col-md-12">
                                 <div class="form-group">

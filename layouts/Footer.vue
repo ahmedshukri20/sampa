@@ -10,7 +10,7 @@
                                 <img src="~/assets/img/logo.png" alt="logo" width="150" />
                             </NuxtLink>
                         </div>
-                        <p>Somali Medical Practitioners that are trained to provide a wide range of medical services to help diagnose and treat a variety of health conditions.</p>
+                        <p>SOMPA serves vulnerable populations, including people living in rural areas, low-income families, and those with limited access to healthcare due to social or economic factors.</p>
                     </div>
                 </div>
 
@@ -18,11 +18,10 @@
                     <div class="single-footer-widget pl-5">
                         <h3>Company</h3>
                         <ul class="list">
-                            <li><NuxtLink to="/about-style-one">About Us</NuxtLink></li>
-                            <li><NuxtLink to="/service-style-one">Services</NuxtLink></li>
-                            <li><NuxtLink to="/features">Features</NuxtLink></li>
-                            <li><NuxtLink to="/pricing">Our Pricing</NuxtLink></li>
-                            <li><NuxtLink to="/blog-grid">Latest News</NuxtLink></li>
+                            <li><NuxtLink to="/">Home</NuxtLink></li>
+                            <li><NuxtLink to="/WhoWeAre">Who we are</NuxtLink></li>
+                            <li><NuxtLink to="/WhatWeDo">What we do</NuxtLink></li>
+                           
                         </ul>
                     </div>
                 </div>
@@ -32,10 +31,9 @@
                         <h3>Support</h3>
                         <ul class="list">
                             <li><NuxtLink to="/faq">FAQ's</NuxtLink></li>
-                            <li><NuxtLink to="/project-style-one">Project</NuxtLink></li>
-                            <li><NuxtLink to="/feedback">Feedback</NuxtLink></li>
-                            <li><NuxtLink to="/team">Team</NuxtLink></li>
+                            <li><NuxtLink to="/Membership">Membership</NuxtLink></li>
                             <li><NuxtLink to="/contact">Contact Us</NuxtLink></li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -45,9 +43,9 @@
                         <h3>Address</h3>
                         
                         <ul class="footer-contact-info">
-                            <li><feather type="map-pin"></feather> 27 Division St, New York, NY 10002, USA</li>
-                            <li><feather type="mail"></feather> Email: <a href="mailto:pasona@gmail.com">pasona@gmail.com</a></li>
-                            <li><feather type="phone-call"></feather> Phone: <a href="tel:321984754">+ (321) 984 754</a></li>
+                            <li><feather type="map-pin"></feather> Eastleigh, Nairobi</li>
+                            <li><feather type="mail"></feather> Email: <a href="mailto:pasona@gmail.com">info@sompa.com</a></li>
+                            <li><feather type="phone-call"></feather> Phone: <a href="tel:321984754">+254 729 074674</a></li>
                         </ul>
                         <ul class="social-links">
                             <li><a href="#" class="facebook"><feather type="facebook"></feather></a></li>
@@ -60,7 +58,7 @@
 
                 <div class="col-lg-12 col-md-12">
                     <div class="copyright-area">
-                        <p>Copyright &copy;{{currentYear}} Pasona. All Rights Reserved</p>
+                        <p>Copyright &copy;{{currentYear}} SOMPA. All Rights Reserved</p>
                     </div>
                 </div>
             </div>

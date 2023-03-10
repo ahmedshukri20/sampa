@@ -5,7 +5,7 @@
                 <accordion>
                     <accordion-item>
                         <template v-slot:accordion-trigger>
-                            <a class="accordion-button">Who can join the African Medical Association?</a>
+                            <a class="accordion-button">Who can join SOMPA?</a>
                         </template>
                         <template v-slot:accordion-content>
                             <p>Any healthcare professional, including doctors, nurses, pharmacists, and researchers, can join our association. We welcome members from across the nation and beyond.</p>
@@ -45,49 +45,16 @@
                     </accordion-item>
                     <accordion-item>
                         <template v-slot:accordion-trigger>
-                            <a class="accordion-button">Can I share resources between features?</a>
+                            <a class="accordion-button">Who can i contact for more info?</a>
                         </template>
                         <template v-slot:accordion-content>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. incididunt ut labore et dolore magna aliqua.</p>
+                            <p>For mor einfo please contact <a href="mailto:info@sampa.com"><b>info@sampa.com</b></a>. Thank you for your interest in SOMPA and your commitment to advancing the field of medicine and improving healthcare outcomes for patients around the world. We look forward to hearing from you soon.</p>
                         </template>
                     </accordion-item>
                 </accordion>
             </div>
 
-            <div class="faq-contact">
-                <h3>Ask Your Question</h3>
-                <form>
-                    <div class="row">
-                        <div class="col-lg-6 col-md-6">
-                            <div class="form-group">
-                                <input type="text" placeholder="Name" class="form-control">
-                            </div>
-                        </div>
-                        
-                        <div class="col-lg-6 col-md-6">
-                            <div class="form-group">
-                                <input type="email" placeholder="Email" class="form-control">
-                            </div>
-                        </div>
-                        
-                        <div class="col-lg-12 col-md-12">
-                            <div class="form-group">
-                                <input type="text" placeholder="Subject" class="form-control">
-                            </div>
-                        </div>
-                        
-                        <div class="col-lg-12 col-md-12">
-                            <div class="form-group">
-                                <textarea name="message" cols="30" rows="6" placeholder="Message" class="form-control"></textarea>
-                            </div>
-                        </div>
-                        
-                        <div class="col-lg-12 col-md-12">
-                            <button class="btn btn-primary" type="submit">Submit Now!</button>
-                        </div>
-                    </div>
-                </form>
-            </div>
+           
         </div>
     </div>
 </template>

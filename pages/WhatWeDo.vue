@@ -1,8 +1,5 @@
 <template>
     <div>
-        <br><br>
-        <br><br>
-        <PageTitle pageTitle="About SOMPA" />
         <WhatWeDo />
     </div>
 </template>
